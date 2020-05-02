@@ -23,6 +23,7 @@ Hasil pekerjaan submit pada repository github masing-masing.
 
 1. Membuat Mockup Design
 
+![Design](https://user-images.githubusercontent.com/46511665/80855602-4cce6880-8bf7-11ea-81ef-c3028ecc4e7f.png)
 
 2. Membuat HTML
 
